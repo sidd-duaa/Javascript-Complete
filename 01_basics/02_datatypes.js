@@ -7,4 +7,8 @@
 // boolean
 // null => is itself a value
 // undefined => no value in a declared variable
-// symbol
+// symbol => for uniqueness
+
+// object
+console.log(typeof null); //is an object
+console.log(typeof undefined); //undefined
